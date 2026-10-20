@@ -1,9 +1,9 @@
 # Virtual Pet Simulator
 
 ## Names of Pair Working on This Fork
-<Enter Name 1 Here>
+<Enter Name 1 Here> Stephen Collins
 
-<Enter Name 2 Here>
+<Enter Name 2 Here> Cailyn Ewers
 
 ## Run from Git Bash
 
